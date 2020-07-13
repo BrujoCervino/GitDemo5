@@ -6,7 +6,8 @@ namespace GitDemo5
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.WriteLine("Hello there!");
         }
     }
 }
